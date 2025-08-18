@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # Spring Boot REST API with JPA: CRUD Tutorial (Teacher’s Notes)
 
 Below is a step-by-step guide to build a REST API in Java using Spring Boot and Spring Data JPA that performs basic CRUD (Create, Read, Update, Delete) operations. It includes the project structure, all key annotations, code snippets, and the reasoning behind each step.
